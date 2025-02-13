@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet easily overlooked, Perl bug related to the unpredictable iteration order of hashes when using the `each` function.  The `bug.pl` file shows the problematic code, while `bugSolution.pl` offers a solution for predictable iteration if needed.
